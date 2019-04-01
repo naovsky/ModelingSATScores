@@ -1,0 +1,10 @@
+This project is based on multiple statistical analysis techniques and includes heavy assumption testing which is key in a project with
+so much data compilation. The write-up and code should be enough to walk you through the majority of the logic, but if you'd like
+deeper understanding of the statistical methods, feel free to do your own research.
+
+The paper has not been published and I have not attempted to do so.
+
+The data comes from multiple U.S. Census databases which were then mended together directly in excel.
+
+Before running code, make sure that you a) have all the R packages downloaded and b) have replaced the excel sheets import with the 
+location of the data on your computer. It may be more helpfult to run the code line by line, as it outputs information.
